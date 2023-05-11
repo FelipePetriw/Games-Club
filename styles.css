@@ -31,13 +31,19 @@ input {
     background: #F9F9F9;
     border: 1px solid #E6E6E6;
     border-radius: 5px;
+    height: 50px;
+    width: 352px;
+    margin-bottom: 20px;
 }
 
 textarea {
     display: block;
     background: #F9F9F9;
-    border: 1px solid #DDDDDD;
+    border: 1px solid #E6E6E6;
     border-radius: 5px;
+    height: 100px;
+    width: 352px;
+    margin-bottom: 20px;
 }
 
 form {
