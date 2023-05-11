@@ -55,6 +55,7 @@ form {
     transform: translate(-50%, -50%);
     border-radius: 10px;
     opacity: 0;
+    transition: opacity 1s;
 }
 
 button {
@@ -82,4 +83,8 @@ button:hover {
 
 .voltar {
     background: gray;
+}
+
+div {
+    transition: opacity 1s;
 }
