@@ -10,7 +10,7 @@ body {
 
 img {
     width: 100%;
-    
+
 }
 
 h1 {
@@ -28,10 +28,16 @@ p {
 
 input {
     display: block;
+    background: #F9F9F9;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
 }
 
 textarea {
     display: block;
+    background: #F9F9F9;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
 }
 
 form {
