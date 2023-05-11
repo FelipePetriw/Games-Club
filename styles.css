@@ -25,3 +25,16 @@ p {
     font-size: 20px;
     margin: 30px;
 }
+
+input {
+    display: block;
+}
+
+textarea {
+    display: block;
+}
+
+form {
+    background: #FFFFFF;
+    padding: 20px;
+}
