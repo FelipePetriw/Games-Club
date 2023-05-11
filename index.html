@@ -58,7 +58,7 @@
         <input type="email" name="email" required placeholder="Digite seu E-mail">
         <textarea placeholder="Digite sua dúvida aqui." name="" id="" cols="30" rows="10"></textarea>
         <button type="submit">ENVIAR</button>
-        <button type="button" class="voltar">Voltar</button>
+        <button type="button" class="voltar" onclick="fechar()">Voltar</button>
     </form>
 
 
@@ -68,6 +68,11 @@
     function abrirFormulario() {
         document.querySelector("form").style.opacity = 1;
         document.querySelector("div").style.opacity = 0.2;
+    }
+
+    function fechar() {
+        document.querySelector("form").style.opacity = 0;
+        document.querySelector("div").style.opacity = 1;
     }
 </script>
 
