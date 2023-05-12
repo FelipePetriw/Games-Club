@@ -6,8 +6,8 @@ Desenvolvimento de página web, utilizando a plataforma FormSubmit para realizar
 
 ## 🎨 Layout
 
-![image]()
-![image]()
+![image](https://github.com/FelipePetriw/Games-Club/blob/main/Img/Apresenta%C3%A7%C3%A3o-01.JPG)
+![image](https://github.com/FelipePetriw/Games-Club/blob/main/Img/Apresenta%C3%A7%C3%A3o-02.JPG)
 
 
 ## 🛠 Tecnologias
